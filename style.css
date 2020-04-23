@@ -1,0 +1,88 @@
+.green{
+	background-color:green;
+	/*grid-template-columns:25%;*/
+	grid:color:green;
+}
+.red{
+	background-color:red;
+	display:grid;
+	/*grid color:red;*/
+	/*margin: 0em;*/
+	
+}
+.blue{
+	background-color:blue;
+	display:grid;
+	/*margin: 1em;*/
+}
+.yellow{
+	background-color:yellow;
+	display:grid;
+	/*margin: 1em;*/
+}
+body{
+	margin: auto 0;
+	color: white;
+	/*margin:1em;*/
+}
+.class hover{
+	 /*display: inline-block;*/
+	 /*font-size: 2em;*/
+	 /*border-radius: 4px;*/
+	 /*border:1px solid #bbb;*/
+	 transition: all 1s linear;
+	 transform: 1.1s;
+}
+.main-nav{
+	display:flex;
+	/*display: inline;*/
+	list-style:none;
+	font-size: 0.7em;
+	margin: 0;
+}
+.push{
+	margin-left:auto;
+}
+li{
+	padding:20px;
+}
+*{
+	color:#f5f5f6;
+	text-decoration: none;
+}
+   
+
+
+   /*cover*/
+.container{
+	display:flex;
+	 align-items: center;
+	 justify-content:center;
+	 height: 20vh;
+}
+.zone{
+	align-items: center;
+	justify-content: center;
+}
+*{
+text-decoration:none;
+}
+.pull{
+	margin-left: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
